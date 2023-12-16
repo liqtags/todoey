@@ -1,2 +1,2 @@
-# todoey
+# Todoey
 Todoey!
