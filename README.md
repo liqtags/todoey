@@ -8,7 +8,6 @@ Before using the script, ensure you have the following:
 
 -   GitHub account
 -   Personal access token with the necessary permissions (generate one [here](https://github.com/settings/tokens))
--   Python installed on your machine
 
 ## GitHub Actions Workflow
 
